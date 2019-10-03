@@ -1,0 +1,11 @@
+C:\ma\bewijzenmap\periode1.1\pro2\Can you drive\obj\Debug\netcoreapp2.1\Can you drive.csprojAssemblyReference.cache
+C:\ma\bewijzenmap\periode1.1\pro2\Can you drive\obj\Debug\netcoreapp2.1\Can you drive.csproj.CoreCompileInputs.cache
+C:\ma\bewijzenmap\periode1.1\pro2\Can you drive\obj\Debug\netcoreapp2.1\Can you drive.AssemblyInfoInputs.cache
+C:\ma\bewijzenmap\periode1.1\pro2\Can you drive\obj\Debug\netcoreapp2.1\Can you drive.AssemblyInfo.cs
+C:\ma\bewijzenmap\periode1.1\pro2\Can you drive\bin\Debug\netcoreapp2.1\Can you drive.deps.json
+C:\ma\bewijzenmap\periode1.1\pro2\Can you drive\bin\Debug\netcoreapp2.1\Can you drive.runtimeconfig.json
+C:\ma\bewijzenmap\periode1.1\pro2\Can you drive\bin\Debug\netcoreapp2.1\Can you drive.runtimeconfig.dev.json
+C:\ma\bewijzenmap\periode1.1\pro2\Can you drive\bin\Debug\netcoreapp2.1\Can you drive.dll
+C:\ma\bewijzenmap\periode1.1\pro2\Can you drive\bin\Debug\netcoreapp2.1\Can you drive.pdb
+C:\ma\bewijzenmap\periode1.1\pro2\Can you drive\obj\Debug\netcoreapp2.1\Can you drive.dll
+C:\ma\bewijzenmap\periode1.1\pro2\Can you drive\obj\Debug\netcoreapp2.1\Can you drive.pdb
