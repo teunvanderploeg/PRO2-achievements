@@ -1,0 +1,11 @@
+C:\ma\bewijzenmap\periode1.1\pro2\in variables we trust\bin\Debug\netcoreapp2.1\in variables we trust.deps.json
+C:\ma\bewijzenmap\periode1.1\pro2\in variables we trust\bin\Debug\netcoreapp2.1\in variables we trust.runtimeconfig.json
+C:\ma\bewijzenmap\periode1.1\pro2\in variables we trust\bin\Debug\netcoreapp2.1\in variables we trust.runtimeconfig.dev.json
+C:\ma\bewijzenmap\periode1.1\pro2\in variables we trust\bin\Debug\netcoreapp2.1\in variables we trust.dll
+C:\ma\bewijzenmap\periode1.1\pro2\in variables we trust\bin\Debug\netcoreapp2.1\in variables we trust.pdb
+C:\ma\bewijzenmap\periode1.1\pro2\in variables we trust\obj\Debug\netcoreapp2.1\in variables we trust.csprojAssemblyReference.cache
+C:\ma\bewijzenmap\periode1.1\pro2\in variables we trust\obj\Debug\netcoreapp2.1\in variables we trust.csproj.CoreCompileInputs.cache
+C:\ma\bewijzenmap\periode1.1\pro2\in variables we trust\obj\Debug\netcoreapp2.1\in variables we trust.AssemblyInfoInputs.cache
+C:\ma\bewijzenmap\periode1.1\pro2\in variables we trust\obj\Debug\netcoreapp2.1\in variables we trust.AssemblyInfo.cs
+C:\ma\bewijzenmap\periode1.1\pro2\in variables we trust\obj\Debug\netcoreapp2.1\in variables we trust.dll
+C:\ma\bewijzenmap\periode1.1\pro2\in variables we trust\obj\Debug\netcoreapp2.1\in variables we trust.pdb

@@ -1,0 +1,11 @@
+C:\ma\bewijzenmap\periode1.1\pro2\What's my name\bin\Debug\netcoreapp2.1\opdracht2.deps.json
+C:\ma\bewijzenmap\periode1.1\pro2\What's my name\bin\Debug\netcoreapp2.1\opdracht2.runtimeconfig.json
+C:\ma\bewijzenmap\periode1.1\pro2\What's my name\bin\Debug\netcoreapp2.1\opdracht2.runtimeconfig.dev.json
+C:\ma\bewijzenmap\periode1.1\pro2\What's my name\bin\Debug\netcoreapp2.1\opdracht2.dll
+C:\ma\bewijzenmap\periode1.1\pro2\What's my name\bin\Debug\netcoreapp2.1\opdracht2.pdb
+C:\ma\bewijzenmap\periode1.1\pro2\What's my name\obj\Debug\netcoreapp2.1\opdracht2.csprojAssemblyReference.cache
+C:\ma\bewijzenmap\periode1.1\pro2\What's my name\obj\Debug\netcoreapp2.1\opdracht2.csproj.CoreCompileInputs.cache
+C:\ma\bewijzenmap\periode1.1\pro2\What's my name\obj\Debug\netcoreapp2.1\opdracht2.AssemblyInfoInputs.cache
+C:\ma\bewijzenmap\periode1.1\pro2\What's my name\obj\Debug\netcoreapp2.1\opdracht2.AssemblyInfo.cs
+C:\ma\bewijzenmap\periode1.1\pro2\What's my name\obj\Debug\netcoreapp2.1\opdracht2.dll
+C:\ma\bewijzenmap\periode1.1\pro2\What's my name\obj\Debug\netcoreapp2.1\opdracht2.pdb

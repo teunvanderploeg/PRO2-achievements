@@ -1,0 +1,11 @@
+C:\ma\bewijzenmap\github\PRO2-achievements\B1L1CompileThis\bin\Debug\netcoreapp2.1\B1L1CompileThis.deps.json
+C:\ma\bewijzenmap\github\PRO2-achievements\B1L1CompileThis\bin\Debug\netcoreapp2.1\B1L1CompileThis.runtimeconfig.json
+C:\ma\bewijzenmap\github\PRO2-achievements\B1L1CompileThis\bin\Debug\netcoreapp2.1\B1L1CompileThis.runtimeconfig.dev.json
+C:\ma\bewijzenmap\github\PRO2-achievements\B1L1CompileThis\bin\Debug\netcoreapp2.1\B1L1CompileThis.dll
+C:\ma\bewijzenmap\github\PRO2-achievements\B1L1CompileThis\bin\Debug\netcoreapp2.1\B1L1CompileThis.pdb
+C:\ma\bewijzenmap\github\PRO2-achievements\B1L1CompileThis\obj\Debug\netcoreapp2.1\B1L1CompileThis.csprojAssemblyReference.cache
+C:\ma\bewijzenmap\github\PRO2-achievements\B1L1CompileThis\obj\Debug\netcoreapp2.1\B1L1CompileThis.csproj.CoreCompileInputs.cache
+C:\ma\bewijzenmap\github\PRO2-achievements\B1L1CompileThis\obj\Debug\netcoreapp2.1\B1L1CompileThis.AssemblyInfoInputs.cache
+C:\ma\bewijzenmap\github\PRO2-achievements\B1L1CompileThis\obj\Debug\netcoreapp2.1\B1L1CompileThis.AssemblyInfo.cs
+C:\ma\bewijzenmap\github\PRO2-achievements\B1L1CompileThis\obj\Debug\netcoreapp2.1\B1L1CompileThis.dll
+C:\ma\bewijzenmap\github\PRO2-achievements\B1L1CompileThis\obj\Debug\netcoreapp2.1\B1L1CompileThis.pdb
