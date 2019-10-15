@@ -1,0 +1,11 @@
+C:\ma\bewijzenmap\periode1.1\pro2\The best selection\bin\Debug\netcoreapp2.1\The best selection.deps.json
+C:\ma\bewijzenmap\periode1.1\pro2\The best selection\bin\Debug\netcoreapp2.1\The best selection.runtimeconfig.json
+C:\ma\bewijzenmap\periode1.1\pro2\The best selection\bin\Debug\netcoreapp2.1\The best selection.runtimeconfig.dev.json
+C:\ma\bewijzenmap\periode1.1\pro2\The best selection\bin\Debug\netcoreapp2.1\The best selection.dll
+C:\ma\bewijzenmap\periode1.1\pro2\The best selection\bin\Debug\netcoreapp2.1\The best selection.pdb
+C:\ma\bewijzenmap\periode1.1\pro2\The best selection\obj\Debug\netcoreapp2.1\The best selection.csprojAssemblyReference.cache
+C:\ma\bewijzenmap\periode1.1\pro2\The best selection\obj\Debug\netcoreapp2.1\The best selection.csproj.CoreCompileInputs.cache
+C:\ma\bewijzenmap\periode1.1\pro2\The best selection\obj\Debug\netcoreapp2.1\The best selection.AssemblyInfoInputs.cache
+C:\ma\bewijzenmap\periode1.1\pro2\The best selection\obj\Debug\netcoreapp2.1\The best selection.AssemblyInfo.cs
+C:\ma\bewijzenmap\periode1.1\pro2\The best selection\obj\Debug\netcoreapp2.1\The best selection.dll
+C:\ma\bewijzenmap\periode1.1\pro2\The best selection\obj\Debug\netcoreapp2.1\The best selection.pdb
